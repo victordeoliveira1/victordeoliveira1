@@ -34,3 +34,4 @@ Atualmente, estou expandindo meus conhecimentos para o universo **Full Stack**, 
 
 - [SGP - API REST](https://github.com/victordeoliveira1/api-rest-spring-boot) - Sistema de Gerenciamento de Projetos em Java e Spring Boot
 - [SGP - Frontend](https://github.com/victordeoliveira1/sgp-frontend) - Interface web do SGP em HTML, CSS e JavaScript
+- [Urna Eletrônica](https://github.com/victordeoliveira1/eletronic-voting-machine) - Simulação de urna eletrônica em Java com POO
