@@ -7,24 +7,30 @@ Atualmente, estou expandindo meus conhecimentos para o universo **Full Stack**, 
 
 ## 💻 Quem sou eu:
 
-- 🎮 Experiência com desenvolvimento de jogos  
-- 🎨 Vivência com design e criação visual  
-- 🖥️ Conhecimento em computação gráfica  
-- ☕ Gosto de tecnologia, criatividade e aprendizado contínuo  
-- 📖 Sempre estudando novas práticas de programação  
-- 🚀 Em constante evolução na área de desenvolvimento web  
+- 🎮 Experiência com desenvolvimento de jogos
+- 🎨 Vivência com design e criação visual
+- 🖥️ Conhecimento em computação gráfica
+- ☕ Gosto de tecnologia, criatividade e aprendizado contínuo
+- 📖 Sempre estudando novas práticas de programação
+- 🚀 Em constante evolução na área de desenvolvimento web
 
 ## 🛠️ Competências Técnicas:
 
-- ☕ Java  
-- 🍃 Spring Boot  
-- 🌐 JavaScript  
-- 🎨 HTML e CSS  
-- 🔧 Git e GitHub  
-- 🎮 Unreal Engine  
+- ☕ Java
+- 🍃 Spring Boot
+- 🗄️ JPA e Hibernate
+- 🌐 JavaScript
+- 🎨 HTML e CSS
+- 🔧 Git e GitHub
+- 🎮 Unreal Engine
 
 ## 📌 Atualmente:
 
-- 📚 Aprimorando conhecimentos em Full Stack  
-- 🏗️ Criando projetos práticos com Java e Spring Boot  
-- 💡 Estudando boas práticas, APIs REST e arquitetura de software  
+- 📚 Aprimorando conhecimentos em Full Stack
+- 🏗️ Criando projetos práticos com Java e Spring Boot
+- 💡 Estudando boas práticas, APIs REST e arquitetura de software
+
+## 🗂️ Projetos:
+
+- [SGP - API REST](https://github.com/victordeoliveira1/api-rest-spring-boot) - Sistema de Gerenciamento de Projetos em Java e Spring Boot
+- [SGP - Frontend](https://github.com/victordeoliveira1/sgp-frontend) - Interface web do SGP em HTML, CSS e JavaScript
